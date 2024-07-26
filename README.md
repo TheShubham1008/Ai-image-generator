@@ -28,7 +28,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/image-generating-web-app.git
+git clone (https://github.com/TheShubham1008/Ai-image-generator.git)
 Navigate to the project directory:
 bash
 Copy code
